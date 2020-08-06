@@ -1,7 +1,15 @@
-* NWM ET Assessment: https://amazroo.github.io/My_presentations/NWM_ET_Assessment2.html
-* Streamflow Assessment for "increased NROOT" experiment: https://amazroo.github.io/My_presentations/ET_and_Streamflow_Assessment_due_to_Increased_NROOT.html
-* Streamflow Assessment for LIShydro vegetation options: https://amazroo.github.io/My_presentations/Evaluate_LISHydro_Q_different_veg_options.html
-* LISHydro Tar River Basin: https://amazroo.github.io/My_presentations/Tar_Evaluate_LISHydro_Q_all_experiments.html 
+* NWM ET Assessments:
+	* https://amazroo.github.io/My_presentations/Present_ET_NWM_vs_AmeriFlux.html
+	* https://amazroo.github.io/My_presentations/Present_ET_NWM_vs_MODIS.html
+	* https://amazroo.github.io/My_presentations/Present_ET_NWM_vs_MODIS_timeseries.html
+
+* Streamflow Assessment for "increased NROOT" experiment:
+	* OK-KA: https://amazroo.github.io/My_presentations/OK-KA_ET_and_Streamflow_Assessment_due_to_Increased_NROOT.html
+	* Long100: https://amazroo.github.io/My_presentations/Long100_ET_and_Streamflow_Assessment_due_to_Increased_NROOT.html
+
+* LIShydro over Tar River Basin:
+	* ColdStart 2013-2015: https://amazroo.github.io/My_presentations/Tar_Evaluate_LISHydro_Q_coldstart_simulation
+	* Experiments 2015-2017: https://amazroo.github.io/My_presentations/Tar_Evaluate_LISHydro_Q_all_experiments.html
 
 ...
 ...
